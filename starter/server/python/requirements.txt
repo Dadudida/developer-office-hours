@@ -1,5 +1,5 @@
 certifi==2023.11.17
-chardet==4.0.0
+chardet==5.2.0
 Click==8.1.7
 Flask==2.1.1
 idna==3.6
