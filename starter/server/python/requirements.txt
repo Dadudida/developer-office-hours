@@ -10,5 +10,5 @@ python-dotenv==0.20.0
 requests==2.31.0
 stripe==8.0.0
 toml==0.10.2
-urllib3==2.1.0
+urllib3==2.2.0
 Werkzeug==3.0.1
